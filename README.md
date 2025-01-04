@@ -10,7 +10,7 @@
 
 ---
 # Demo
-- https://d1gital-animedemo.vercel.app/
+- https://anime.leoo.lol/
 
 # Overview
 - Yet another ad-free anime streaming website.
